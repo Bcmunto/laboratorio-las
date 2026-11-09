@@ -55,8 +55,9 @@ python app.py
 
 | Prueba | Usuario         | MTTD (segundos) | MTTR (segundos) |
 |--------|-----------------|-----------------|-----------------|
-| 1      | brandon_01      | 52.0            | 294.0           |
-| 2      | Christopher_02  | 69.0            | 177.0           |
+| 1      | brandon_01      | 84.0            | 246.0           |
+| 2      | Christopher_02  | 68.0            | 141.0           |
+| 3      | doris_03        | 63.0            | 39.0           |
 
-**Cálculo del MTTD promedio:** 60.5 segundos 
-**Cálculo del MTTR promedio:** 235.5 segundos 
+**Cálculo del MTTD promedio:** 71.67 segundos 
+**Cálculo del MTTR promedio:** 142.0 segundos 
